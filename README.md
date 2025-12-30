@@ -1,5 +1,18 @@
-<img width="489.5" height="419.5" alt="image" src="https://github.com/user-attachments/assets/37eb3850-3b49-4f01-b2c6-9d4fb20777b6" />  Cybersecurity Enthusiast/Learner<br>Currently Learning Assembly
-
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/37eb3850-3b49-4f01-b2c6-9d4fb20777b6"
+        width="420"
+        alt="profile image"
+      />
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <h2>Cybersecurity Enthusiast / Learner</h2>
+      <p>Currently Learning Assembly</p>
+    </td>
+  </tr>
+</table>
 
 ------------------------------------------------
 
