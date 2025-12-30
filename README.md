@@ -1,13 +1,13 @@
 <table width="100%">
   <tr>
-    <td width="40%" align="left">
+    <td width="35%" valign="top">
       <img 
         src="https://github.com/user-attachments/assets/37eb3850-3b49-4f01-b2c6-9d4fb20777b6"
-        width="420"
+        width="380"
         alt="profile image"
       />
     </td>
-    <td width="60%" align="left" valign="middle">
+    <td width="65%" valign="top">
       <h2>Cybersecurity Enthusiast / Learner</h2>
       <p>Currently Learning Assembly</p>
     </td>
