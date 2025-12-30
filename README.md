@@ -61,4 +61,4 @@
 [![](https://visitcount.itsvg.in/api?id=praveenxsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/praveenxsharma/praveenxsharma/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/praveenxsharma/praveenxsharma/blob/output/github-snake-dark.svg)
