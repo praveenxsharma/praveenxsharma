@@ -4,8 +4,9 @@
       <img src="https://github.com/user-attachments/assets/37eb3850-3b49-4f01-b2c6-9d4fb20777b6" width="360">
     </td>
     <td width="65%" valign="top">
-      <strong>Cybersecurity Enthusiast / Learner</strong><br>
+      <strong>Praveen sharma</strong><br>
       Currently Learning Assembly
+      Cybersecurity Enthusiast/Learner
     </td>
   </tr>
 </table>
