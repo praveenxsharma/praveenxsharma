@@ -8,7 +8,8 @@
       />
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <h2>Cybersecurity Enthusiast / Learner</h2>
+      <h2>Praveen sharma</h2>
+      <p>Cybersecurity Enthusiast / Learner</p>
       <p>Currently Learning Assembly</p>
     </td>
   </tr>
