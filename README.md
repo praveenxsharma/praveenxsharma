@@ -66,4 +66,5 @@
 <p align="center">
   <img src="https://github.com/praveenxsharma/praveenxsharma/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/praveenxsharma/praveenxsharma/blob/output/github-contribution-grid-snake.gif)
