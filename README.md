@@ -1,19 +1,19 @@
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="40%" align="left">
       <img 
         src="https://github.com/user-attachments/assets/37eb3850-3b49-4f01-b2c6-9d4fb20777b6"
         width="420"
         alt="profile image"
       />
     </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <h2>Praveen sharma</h2>
-      <p>Cybersecurity Enthusiast / Learner</p>
+    <td width="60%" align="left" valign="middle">
+      <h2>Cybersecurity Enthusiast / Learner</h2>
       <p>Currently Learning Assembly</p>
     </td>
   </tr>
 </table>
+
 
 ------------------------------------------------
 
