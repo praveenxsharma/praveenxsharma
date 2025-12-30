@@ -60,4 +60,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=praveenxsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+</p>
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
