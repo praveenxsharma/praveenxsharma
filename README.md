@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-sharma-762b86314) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PraveenSha37046) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itachisec@duck.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PraveenSha37046) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itachisec@duck.com) 
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
