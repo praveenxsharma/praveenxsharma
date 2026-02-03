@@ -1,17 +1,12 @@
-<table width="100%">
-  <tr>
-    <td width="35%" valign="top">
-      <img src="https://github.com/user-attachments/assets/37eb3850-3b49-4f01-b2c6-9d4fb20777b6" width="360">
-    </td>
-    <td width="65%" valign="top">
-      • Currently Learning Assembly<br>
-      • Cybersecurity Enthusiast/Learner
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-------------------------------------------------
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  Cybersecurity Researcher • Linux Enthusiast • AOSP Developer ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
+</div>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PraveenSha37046) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itachisec@duck.com) 
