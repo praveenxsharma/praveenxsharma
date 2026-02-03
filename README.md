@@ -1,17 +1,38 @@
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════╗
-║  Security Researcher • Linux Enthusiast • AOSP Developer ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  Web Security Researcher • Linux Enthusiast • AOSP Developer ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-## 🌐 Socials:
+### 👨‍💻 About Me
+
+```rust
+fn main() {
+    let i can't decide = Developer/Hacker {
+        name: "Praveen Sharma",
+        alias: "ITACHI",
+        location: "India 🇮🇳",
+        languages: vec!["C", "Javascript", "C++", "Python"],
+        interests: vec!["Linux", "Android"],
+        current_os: vec!["Arch Linux", "MistOs"],
+        window_managers: vec!["Hyprland"],
+        motto: "I use Arch btw 🐧",
+    };
+
+    println!("Can't decide what i what to do , so i do everything!");
+}
+```
+
+<br clear="right"/>
+
+### Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PraveenSha37046) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itachisec@duck.com) 
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+### Knowledge & Skills:
 
 <br>
 
@@ -41,7 +62,7 @@
   </div>
 </div>
 
-# 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=praveenxsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=praveenxsharma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenxsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
