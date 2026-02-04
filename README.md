@@ -23,14 +23,11 @@ fn main() {
         motto: "I use Arch btw 🐧",
     };
 
-    println!("Can't decide what i what to do , so i do everything!");
+    println!("Can't decide what to do , so i do everything!");
 }
 ```
 
 <br clear="right"/>
-
-### Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PraveenSha37046) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itachisec@duck.com) 
 
 ### Knowledge & Skills:
 
@@ -61,6 +58,11 @@ fn main() {
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
+
+### Earworm:
+<div align="center">
+    <img src="https://raw.githubusercontent.com/praveenxsharma/praveenxsharma/refs/heads/main/showcard-1770202448944.png" alt="Description" width="500"/> <br>
+<div>
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=praveenxsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
