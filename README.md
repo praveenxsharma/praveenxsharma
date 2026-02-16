@@ -61,7 +61,7 @@ fn main() {
 
 ### Earworm:
 <div align="center">
-    <img src="https://raw.githubusercontent.com/praveenxsharma/praveenxsharma/refs/heads/main/showcard-1770202448944.png" alt="Description" width="500"/> <br>
+    <img src="https://raw.githubusercontent.com/praveenxsharma/praveenxsharma/refs/heads/main/showcard-1770202448944.png" alt="Description" width="400"/> <br>
 <div>
 
 ### GitHub Stats:
